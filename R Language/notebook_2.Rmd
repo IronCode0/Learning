@@ -1,0 +1,21 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+```{r}
+print("efwfwfw")
+print("5555")
+```
+```{r}
+plot(c(1,4,5), c(4,5,6))
+```
+```{py}
+import numpy
+```
+
+
+
+
+
+
